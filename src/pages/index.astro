@@ -1,14 +1,32 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '@/layouts/Layout.astro';
 
+import Hero from '@/components/sections/Hero.astro';
+import About from '@/components/sections/About.astro';
+import Experience from '@/components/sections/Experience.astro';
+import Projects from '@/components/sections/Projects.astro';
+import Education from '@/components/sections/Education.astro';
+import Skills from '@/components/sections/Skills.astro';
+import KeyboardManager from '@/components/sections/KeyboardManager.astro';
 ---
 
 <Layout title="Manny CV">
 	<main>
-		
+		<Hero />
+		<About />
+		<Experience />
+		<Projects />
+		<Education />
+		<Skills />
 	</main>
+
+	<KeyboardManager />
 </Layout>
 
 <style>
-	
+	main {
+		padding: 4rem;
+		margin: auto;
+		widows: 100%;
+	}
 </style>
