@@ -1,66 +1,45 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Manny Alberto de León Hernández",
+    "label": "Ingeniero de Software enfocado en el desarrollo frontend, con conocimientos en tecnologías como Astro, React y Tailwind. Arregla las faltas ortográficas.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "mannyalberto27@hotmail.com",
+    "phone": "+1 809 974 1867",
+    "url": "https://www.youtube.com/",
+    "summary": "Como recién egresado en Ingeniería de Software, me especializo en el desarrollo frontend y poseo experiencia en la creación de aplicaciones web y móviles utilizando React. Durante mis estudios, adquirí conocimientos sólidos en JavaScript, React y NodeJS, lo que me capacita para construir aplicaciones interactivas y responsivas.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "43000",
+      "city": "Cotui",
+      "countryCode": "RD",
+      "region": "Republica Dominicana"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Manny",
+        "url": "www.linkedin.com/in/manny-alberto-de-leon-hernandez-524118267"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Manny",
+        "url": "https://twitter.com/home?lang=es"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Manny",
+        "url": "https://github.com/Manny-27"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "UAPA",
+      "position": "Pasante enfocado en el desarrollo frontend",
+      "url": "https://www.uapa.edu.do/",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Como pasante de la UAPA, tuve la responsabilidad de desarrollar el frontend para un módulo destinado a simplificar el proceso de selección de pasantías. Para llevar a cabo este proyecto, utilicé tecnologías frontend de vanguardia, como React y Tailwind. ",
       "highlights": [
         "Started the company"
       ]
@@ -74,21 +53,32 @@
     "endDate": "2013-01-01",
     "summary": "Description…",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "yes"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Universidad Abierta para Adultos (UAPA)",
+    "url": "https://www.uapa.edu.do/",
     "area": "Ingeniero de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2020-01-01",
+    "endDate": "2025-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {"institution": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+  "url": "https://www.uapa.edu.do/",
+  "area": "Programa Inglés de Inmersión para la Competividad",
+  "studyType": "Bachelor",
+  "startDate": "2023",
+  "endDate": "2023",
+  "score": "4.0",
+  "courses": [
+    "DB1101 - Basic SQL"
+  ]}
+],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -210,66 +200,35 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Proximamente",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
     },
     {
-      "name": "AdventJS",
+      "name": "Proximamente",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
     },
     {
-      "name": "Codember",
+      "name": "Proximamente",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
     }
   ]
 }
