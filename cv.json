@@ -21,11 +21,6 @@
         "url": "www.linkedin.com/in/manny-alberto-de-leon-hernandez-524118267"
       },
       {
-        "network": "X",
-        "username": "Manny",
-        "url": "https://twitter.com/home?lang=es"
-      },
-      {
         "network": "GitHub",
         "username": "Manny",
         "url": "https://github.com/Manny-27"
@@ -142,13 +137,6 @@
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
@@ -160,13 +148,6 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
@@ -200,33 +181,34 @@
   }],
   "projects": [
     {
-      "name": "Proximamente",
+      "name": "RengoCHAT",
       "isActive": true,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "RengokuChat es un chatbot de IA que funciona completamente en tu navegador, sin necesidad de conexión a servidores externos. Utiliza modelos de lenguaje avanzados para ofrecer respuestas rápidas y precisas, con una interfaz minimalista y conversaciones persistentes gracias al uso de localStorage.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Ejecución local",
+        "Interfaz minimalista",
+        "Persistencia de conversaciones"
       ],
-      "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
+      "url": "https://github.com/Manny-27/gpt"
     },
     {
-      "name": "Proximamente",
+      "name": "SDL-UTECO",
       "isActive": true,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "description": "SDL-UTECO es una solución de software diseñada para simplificar la gestión documental del departamento legal de Uteco. Proporciona una herramienta tecnológica que facilita el manejo y seguimiento digital de documentos de manera centralizada.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
+        "Automatización de reportes de datos",
+        "Autenticación segura y control de acceso",
         "JavaScript & TypeScript"
       ],
-      "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
+      "url": "https://github.com/Manny-27/SDL-UTECO"
     },
     {
       "name": "Proximamente",
-      "isActive": true,
+      "isActive": false,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Proximamente",
+        "Proximamente"
       ],
       "url": "https://www.youtube.com/watch?v=w3z0uivU_AI"
     }
